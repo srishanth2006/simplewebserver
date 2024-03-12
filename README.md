@@ -41,9 +41,6 @@ TOP SOFTWARE COMPANIES WITH REVENUE TABLE
 			<td>TATA</td>
 			<td>10th</td>
 			<td>9.9</td>
-
-
-
 		</tr>
 
 		<tr>
