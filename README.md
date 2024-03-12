@@ -21,7 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-
+```
 <html>
 <head>
 <title align="centre">TOP SOFTWARE COMPANIES WITH REVENUE TABLE </title>
@@ -72,7 +72,7 @@ TOP SOFTWARE COMPANIES WITH REVENUE TABLE
 </html>
 </body>
 </html>
-
+```
 
 ## OUTPUT:
 
